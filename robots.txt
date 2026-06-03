@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://divaine-agency.netlify.app/sitemap.xml
